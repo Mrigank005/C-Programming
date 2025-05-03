@@ -16,24 +16,9 @@ Welcome to my C Programming Repository! This repository contains a collection of
 - For Loop  
 - Array  
 - Structure  
-- Pointer  
-- Linked List  
-- Stack  
-- Heap  
-- Queue  
-- Hash  
-- Tree  
-- Graph  
-- Numbers  
+- Pointer   
 - String  
-- Date Time  
-- Math  
 - Function  
-- Callback Function  
-- Variadic Function  
-- Recursion  
-- Inline Function  
-- File Handling  
-- Searching and Sorting  
+- Recursion 
 
 ## 🚀 Happy Coding! 🎯
